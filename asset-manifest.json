@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_Design/static/css/main.232840e8.css",
+    "main.js": "/React_Design/static/js/main.9bfb7ddf.js",
+    "static/js/453.fbc2c842.chunk.js": "/React_Design/static/js/453.fbc2c842.chunk.js",
+    "static/media/contact_background.jpg": "/React_Design/static/media/contact_background.f4357d36c133bff4ce35.jpg",
+    "index.html": "/React_Design/index.html",
+    "main.232840e8.css.map": "/React_Design/static/css/main.232840e8.css.map",
+    "main.9bfb7ddf.js.map": "/React_Design/static/js/main.9bfb7ddf.js.map",
+    "453.fbc2c842.chunk.js.map": "/React_Design/static/js/453.fbc2c842.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.232840e8.css",
+    "static/js/main.9bfb7ddf.js"
+  ]
+}
